@@ -1,0 +1,4 @@
+# STM32CubeIDE 构建输出与本地配置
+Debug/
+Release/
+.settings/
